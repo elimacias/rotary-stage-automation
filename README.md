@@ -1,6 +1,6 @@
 # Rotary Stage Motor Driver Automation
 
-This repository contains a Python class that automates the programmability of a rotary stage motor driver. In this case, the class is specifically designed for programming an STP-075-07 stepper motor driver.
+This repository contains a Python class that automates the programmability of a rotary stage motor driver. In this case, the class is specifically designed for programming an STP-075-07 stepper motor driver. Communication protocals with motor driver were informed by Copley Controls' user manual.
 
 ## Repository Contents
 
